@@ -8,4 +8,4 @@ This project is used to practice Git and GitHub collaboration workflows.
 - Submit a pull request
 
 ## Planned Features
-- Add a simple configuration system for the application
+- Add a simple configuration system for the application (demo feature for practice purposes)
