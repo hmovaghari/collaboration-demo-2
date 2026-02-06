@@ -1,2 +1,2 @@
 Collaboration Demo Project
-Version 1.1 - updated by branch A
+Version 2.0
